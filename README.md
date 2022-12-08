@@ -12,4 +12,3 @@
 - Lecture 10: Object Detection
 - Lecture 11: Object Tracking
 - Lecture 12: Decision Making and Planning
-- 
